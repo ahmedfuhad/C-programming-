@@ -1,6 +1,9 @@
 #include <sdio.h>
 int main()
 {
+    int a = 12;
+    float b = 3.52
+
 
 
 return 0;
